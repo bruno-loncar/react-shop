@@ -1,0 +1,25 @@
+.collection-data-container {
+    padding: 0em 2em;
+    font-size: 0.8em;
+}
+
+.collection-data-title {
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.collection-data-flex-container {
+    margin-bottom: 30px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    padding-left: 0;
+}
+/* 
+.collection-data-flex-container::after {
+    content: "";
+    flex: auto;
+} */

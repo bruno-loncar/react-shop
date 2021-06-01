@@ -1,0 +1,16 @@
+.shop-data-container {
+    padding: 0em 2em;
+    font-size: 0.8em;
+}
+
+.shop-data-title {
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.shop-data-flex-container {
+    display: flex;
+    padding-left: 0;
+    row-gap: 10px;
+    column-gap: 20px;
+}
